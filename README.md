@@ -97,4 +97,4 @@ Run feature/classification and visualization.ipynb to get the classification and
 
 ## Acknowledgements
 
-The codebase is largely built on this repo: [https://github.com/CVMI-Lab/SimGCD](https://github.com/AnoK3111/DoRL)
+The codebase is largely built on this repo: [https://github.com/AnoK3111/DoRL](https://github.com/AnoK3111/DoRL)
