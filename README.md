@@ -93,4 +93,4 @@ python Train.py \
 Here, `--datasets_dir` is the path of features and masks extracted from SAM.
 
 #### step 4 : Classification
-Run feature/classification and visualization.ipynb to get the classification and t-SNE results. We have upload the final X、y and datasets.npy feature files in <a href="[my google disk](https://drive.google.com/drive/folders/1M15VXDRGcv9UzH_1SIrnRSpiT68CYHQW?dmr=1&ec=wgc-drive-hero-goto)">.
+Run feature/classification and visualization.ipynb to get the classification and t-SNE results. We have upload the final X、y and datasets.npy feature files in <a href=[my google disk](https://drive.google.com/drive/folders/1M15VXDRGcv9UzH_1SIrnRSpiT68CYHQW?dmr=1&ec=wgc-drive-hero-goto)>.
