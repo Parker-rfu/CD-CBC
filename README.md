@@ -1,5 +1,5 @@
 # CD-CBC
-Official PyTorch implementation of Contrastive Representation Learning for Cross-Domain Blood Cell Image Classification with Denoising Mechanism.
+<h2 align="center">Official PyTorch implementation of Contrastive Representation Learning for Cross-Domain Blood Cell Image Classification with Denoising Mechanism</h2>
 
 ## Overview
 <p align="center">
