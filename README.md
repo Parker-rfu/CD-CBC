@@ -94,3 +94,7 @@ Here, `--datasets_dir` is the path of features and masks extracted from SAM.
 
 #### step 4 : Classification
 Run feature/classification and visualization.ipynb to get the classification and t-SNE results. We have upload the final X、y and datasets.npy feature files in [my google disk](https://drive.google.com/drive/folders/1M15VXDRGcv9UzH_1SIrnRSpiT68CYHQW?dmr=1&ec=wgc-drive-hero-goto).
+
+## Acknowledgements
+
+The codebase is largely built on this repo: [https://github.com/CVMI-Lab/SimGCD](https://github.com/AnoK3111/DoRL)
